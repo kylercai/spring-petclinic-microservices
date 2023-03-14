@@ -129,6 +129,7 @@
                             <failOnUnableToExtractRepoInfo>false</failOnUnableToExtractRepoInfo>
                         </configuration>
                     </plugin>
+
                 </plugins>
             </build>
         </profile>

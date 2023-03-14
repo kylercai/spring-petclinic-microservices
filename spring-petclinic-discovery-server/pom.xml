@@ -48,6 +48,10 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <finalName>discovery-server</finalName>
+    </build>
+
     <profiles>
         <profile>
             <id>buildDocker</id>

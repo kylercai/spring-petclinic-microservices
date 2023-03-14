@@ -155,6 +155,7 @@
 
 
     <build>
+        <finalName>messaging-emulator</finalName>
         <plugins>
             <plugin>
                 <groupId>ro.isdc.wro4j</groupId>

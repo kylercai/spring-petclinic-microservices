@@ -120,6 +120,10 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <finalName>visits-service</finalName>
+    </build>
+
     <profiles>
         <profile>
             <id>buildDocker</id>

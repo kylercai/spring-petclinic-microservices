@@ -132,6 +132,10 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <finalName>vets-service</finalName>
+    </build>
+
     <profiles>
         <profile>
             <id>buildDocker</id>

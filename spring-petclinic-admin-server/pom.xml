@@ -60,6 +60,10 @@
 
     </dependencies>
 
+    <build>
+        <finalName>admin-server</finalName>
+    </build>
+
     <profiles>
         <profile>
             <id>buildDocker</id>
